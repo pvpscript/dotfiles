@@ -1,0 +1,21 @@
+! Xft settings-----------
+!Xft.dpi: 150
+Xft.antialias: true
+!Xft.rgba: rgb
+!Xft.hinting: true
+!Xft.hintstyle: hintslight
+!Xft.hintstyle: hintfull
+
+! URxvt.intensityStyles: false
+URxvt.scrollBar: false
+URxvt.background: rgba:0000/0000/0000/ed00
+URxvt.foreground: grey
+URxvt.depth: 32
+
+URxvt.font: xft:DejaVu Sans Mono:pixelsize=14:style=Book:antialias=true:autohint=true
+URxvt.boldFont: xft:DejaVu Sans Mono:pixelsize=14:style=Bold:antialias=true:autohint=true
+URxvt.italicFont: xft:DejaVu Sans Mono:pixelsize=14:style=Oblique:antialias=true:autohint=true
+URxvt.boldItalicFont: xft:DejaVu Sans Mono:pixelsize=14:style=BoldOblique:antialias=true:autohint=true
+URxvt.letterSpace: -2
+
+URxvt.perl-ext-common: tabbed

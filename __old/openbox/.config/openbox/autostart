@@ -1,0 +1,36 @@
+#
+# These things are run when an Openbox X Session is started.
+# You may place a similar script in $HOME/.config/openbox/autostart
+# to run user-specific things.
+#
+
+# If you want to use GNOME config tools...
+#
+#if test -x /usr/lib/x86_64-linux-gnu/gnome-settings-daemon >/dev/null; then
+#  /usr/lib/x86_64-linux-gnu/gnome-settings-daemon &
+#elif which gnome-settings-daemon >/dev/null 2>&1; then
+#  gnome-settings-daemon &
+#fi
+
+# If you want to use XFCE config tools...
+#
+#xfce-mcs-manager &
+
+# Keyboard settings
+setxkbmap -model thinkpad60 -layout br -variant abnt2
+xset r rate 200 40
+
+# Touchpad speed
+xinput set-prop 12 156 3, 0, 0, 0, 3, 0, 0, 0, 1
+
+# Touchpad tapping click
+xinput set-prop 12 291 1
+
+# Programs
+nitrogen --restore
+/usr/lib/notification-daemon/notification-daemon &
+xscreensaver -nosplash &
+tint2 &
+conky &
+compton -b
+

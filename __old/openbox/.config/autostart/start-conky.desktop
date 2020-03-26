@@ -1,0 +1,11 @@
+#Conky Setup by http://www.p3t3r.com
+[Desktop Entry]
+Type=Application
+Exec=/home/p3t3r/.start-conky
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=start-conky.desktop
+Name=conky
+Comment[en_US]=Conky setup by Noobslab.com
+Comment=Conky setup by Noobslab.com

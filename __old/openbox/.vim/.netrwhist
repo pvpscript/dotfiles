@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/p3t3r/.vim/after'
+let g:netrw_dirhist_2='/home/p3t3r/.vim/after/syntax'
+let g:netrw_dirhist_3='/home/p3t3r/UEL/comp_grafica/primeiro_semestre/projeto_GUI/Projeteenho_even_newer'
