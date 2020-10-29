@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/pedro/testerino'
+let g:netrw_dirhist_2='/home/pedro/my-repos/page-stat/src/view'
+let g:netrw_dirhist_1='/home/pedro/my-repos/savetabs/src'
+let g:netrw_dirhist_0='/home/pedro/my-repos/savetabs'
+let g:netrw_dirhist_9='/home/pedro/my-repos/tinyurl/src/firefox'
+let g:netrw_dirhist_8='/home/pedro/my-repos/tinyurl/src'
+let g:netrw_dirhist_7='/home/pedro/my-repos/tinyurl'
+let g:netrw_dirhist_6='/home/pedro/my-repos/page-camouflage'
+let g:netrw_dirhist_5='/home/pedro/my-repos/page-stat/src/view'
+let g:netrw_dirhist_4='/home/pedro/my-repos/savetabs/src/chrome'

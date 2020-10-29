@@ -1,0 +1,2 @@
+event=ac_adapter
+action="$XDG_CONFIG_HOME/acpi/handlers/power.sh" %e

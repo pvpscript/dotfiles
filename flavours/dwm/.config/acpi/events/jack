@@ -1,0 +1,3 @@
+# Pass events to the jack handler
+event=jack[ /]headphone
+action="$XDG_CONFIG_HOME/acpi/handlers/jack/jack.sh" %e

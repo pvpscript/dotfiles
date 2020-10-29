@@ -1,0 +1,2 @@
+event=button[ /]lid
+action="$XDG_CONFIG_HOME/acpi/handlers/lid.sh" %e

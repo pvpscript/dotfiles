@@ -1,0 +1,44 @@
+sw_volume: 98
+audio_device_state:1:Alsa device for audio output
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Alderaan/Alderaan - Infinite Paths - 01 The Vigilante.mp3
+1:Alderaan/Alderaan - Infinite Paths - 02 Even Those Who Prayed.mp3
+2:Alderaan/Alderaan - Infinite Paths - 03 Momo.mp3
+3:Alderaan/Alderaan - Infinite Paths - 04 Deorbit Myr.mp3
+4:Alderaan/Alderaan - Infinite Paths - 01 The Vigilante.mp3
+5:Alderaan/Alderaan - Infinite Paths - 02 Even Those Who Prayed.mp3
+6:Alderaan/Alderaan - Infinite Paths - 03 Momo.mp3
+7:Alderaan/Alderaan - Infinite Paths - 04 Deorbit Myr.mp3
+8:Эпидемия/Albums/2001 - Загадка волшебной страны/01. Чёрный Маг.mp3
+9:Эпидемия/Albums/2001 - Загадка волшебной страны/02. Хождение За Три Моря.mp3
+10:Эпидемия/Albums/2001 - Загадка волшебной страны/03. Кумир.mp3
+11:Эпидемия/Albums/2001 - Загадка волшебной страны/04. Феанор.mp3
+12:Эпидемия/Albums/2001 - Загадка волшебной страны/05. Загадка Волшебной Страны.mp3
+13:Эпидемия/Albums/2001 - Загадка волшебной страны/06. Прощание С Волшебной Страной.mp3
+14:Эпидемия/Albums/2001 - Загадка волшебной страны/07. Фея Моих Снов.mp3
+15:Эпидемия/Albums/2001 - Загадка волшебной страны/08. Я Молился На Тебя.mp3
+16:Эпидемия/Albums/2001 - Загадка волшебной страны/09. Livin' In Twilight (bonus track).mp3
+17:Эпидемия/Albums/2001 - Загадка волшебной страны/01. Чёрный Маг.mp3
+18:Эпидемия/Albums/2001 - Загадка волшебной страны/02. Хождение За Три Моря.mp3
+19:Эпидемия/Albums/2001 - Загадка волшебной страны/03. Кумир.mp3
+20:Эпидемия/Albums/2001 - Загадка волшебной страны/04. Феанор.mp3
+21:Эпидемия/Albums/2001 - Загадка волшебной страны/05. Загадка Волшебной Страны.mp3
+22:Эпидемия/Albums/2001 - Загадка волшебной страны/06. Прощание С Волшебной Страной.mp3
+23:Эпидемия/Albums/2001 - Загадка волшебной страны/07. Фея Моих Снов.mp3
+24:Эпидемия/Albums/2001 - Загадка волшебной страны/08. Я Молился На Тебя.mp3
+25:Эпидемия/Albums/2001 - Загадка волшебной страны/09. Livin' In Twilight (bonus track).mp3
+26:Alderaan/Alderaan - Infinite Paths - 01 The Vigilante.mp3
+27:Alderaan/Alderaan - Infinite Paths - 02 Even Those Who Prayed.mp3
+28:Alderaan/Alderaan - Infinite Paths - 03 Momo.mp3
+29:Alderaan/Alderaan - Infinite Paths - 04 Deorbit Myr.mp3
+30:Lars Leonhard - Thunderbolt.mp3
+playlist_end

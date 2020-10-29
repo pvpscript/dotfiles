@@ -1,0 +1,3 @@
+# Pass all events to our one handler script
+#event=.*
+#action="$XDG_CONFIG_HOME/acpi/handlers/anything.sh" %e

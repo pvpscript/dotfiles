@@ -1,0 +1,13 @@
+#!/bin/sh
+
+setxkbmap br -model thinkpad # ABNT2 keyboard mapping
+
+dwmblocks & # statusbar daemon
+xcompmgr & # compositor daemon (for transparency)
+dunst & # notifications daemon
+# pulseaudio & # pulseaudio daemon
+mpd & # music player daemon
+acpid -c $ACPID_CONFIG -s $ACPID_SOCKET -p $ACPID_PID # acpi daemon
+
+wal_run & # pywal runner script
+setwallpaper & # wallpaper setter script
